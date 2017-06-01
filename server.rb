@@ -6,5 +6,6 @@ erb :index
 end
 
 get '/portfolio' do
-erb  :gallery
+  
+erb :gallery
 end
